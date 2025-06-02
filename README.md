@@ -1,0 +1,1 @@
+I am following a challenge to complete 100 days of coding in Python and this repository is a collection of all the projects I built along the way. The goal here is to stay consistent as I focus on building my Python skills.
